@@ -203,15 +203,16 @@
 			<DataLockControlMode>Managed</DataLockControlMode>
 			<ObjectAutonumerationMode>NotAutoFree</ObjectAutonumerationMode>
 			<ModalityUseMode>DontUse</ModalityUseMode>
-			<SynchronousPlatformExtensionAndAddInCallUseMode>DontUse</SynchronousPlatformExtensionAndAddInCallUseMode>
+			<SynchronousPlatformExtensionAndAddInCallUseMode>Use</SynchronousPlatformExtensionAndAddInCallUseMode>
 			<InterfaceCompatibilityMode>Taxi</InterfaceCompatibilityMode>
 			<CompatibilityMode>Version8_3_20</CompatibilityMode>
 			<DefaultConstantsForm/>
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<CommonModule>Barqr</CommonModule>
-			<CommonForm>Форма</CommonForm>
+			<CommonTemplate>МакетДляТестирования</CommonTemplate>
+			<CommonModule>BarQr_Клиент</CommonModule>
+			<CommonForm>ФормаДляТестирования</CommonForm>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
-		<Metadata name="CommonForm.Форма" id="eb74cf23-485f-4957-bbcd-208b5035ea5b" configVersion="43411e2b6ac9f944829416afe6c16f7d00000000"/>
-		<Metadata name="CommonForm.Форма.Form" id="eb74cf23-485f-4957-bbcd-208b5035ea5b.0" configVersion="18ecd083926e364ca031454451ab253b00000000"/>
-		<Metadata name="CommonModule.Barqr" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1" configVersion="803e9d1d702a764fa0df3096f7f6eb7500000000"/>
-		<Metadata name="CommonModule.Barqr.Module" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1.0" configVersion="a0684eb55c204f4fa48e9e5124bb711e00000000"/>
-		<Metadata name="Configuration.Конфигурация" id="b848e156-11b7-4523-b8d3-4dd0c85524b2" configVersion="54b7b1857883784eb33bc5356a5b313000000000"/>
-		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="ae2e2de2-b3b5-456b-ad3e-c57021b7261b.8" configVersion="2bf15d2455578a479d32b4516697fc7b00000000"/>
+		<Metadata name="CommonForm.ФормаДляТестирования" id="eb74cf23-485f-4957-bbcd-208b5035ea5b" configVersion="c7712da2c9f9e44ba56034d91eff959000000000"/>
+		<Metadata name="CommonForm.ФормаДляТестирования.Form" id="eb74cf23-485f-4957-bbcd-208b5035ea5b.0" configVersion="e68f13ad5370a0418875d0a6943972a600000000"/>
+		<Metadata name="CommonModule.BarQr_Клиент" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1" configVersion="2cbd24917e6e3e4a98e5fd7cbe026efd00000000"/>
+		<Metadata name="CommonModule.BarQr_Клиент.Module" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1.0" configVersion="0aa12ab41c10774e9fa3bb7ded82ced300000000"/>
+		<Metadata name="CommonTemplate.МакетДляТестирования" id="14dce3fa-792a-4ad4-a627-ad262bf4923c" configVersion="24b3a94af8858b40937b423219a4382c00000000"/>
+		<Metadata name="CommonTemplate.МакетДляТестирования.Template" id="14dce3fa-792a-4ad4-a627-ad262bf4923c.0" configVersion="6ae5c467b82ada4cbdba31dcdaf2e3ac00000000"/>
+		<Metadata name="Configuration.Конфигурация" id="b848e156-11b7-4523-b8d3-4dd0c85524b2" configVersion="c156803a12ee954c89d153eb4d53ddfa00000000"/>
+		<Metadata name="Configuration.Конфигурация.HomePageWorkArea" id="ae2e2de2-b3b5-456b-ad3e-c57021b7261b.8" configVersion="702e44e510ca644d9133ccb8fe9fd48d00000000"/>
 		<Metadata name="Language.Русский" id="19aae7ea-78e0-4485-8d2a-2282ca3d6caa" configVersion="b414db123849784d9e9f744ff20d56ea00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
