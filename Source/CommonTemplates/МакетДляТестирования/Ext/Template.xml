@@ -22,7 +22,7 @@
 	<drawing>
 		<drawingType>Picture</drawingType>
 		<id>2</id>
-		<formatIndex>0</formatIndex>
+		<formatIndex>2</formatIndex>
 		<beginRow>0</beginRow>
 		<beginRowOffset>12</beginRowOffset>
 		<endRow>0</endRow>
@@ -37,7 +37,7 @@
 		<pictureIndex>1</pictureIndex>
 	</drawing>
 	<templateMode>true</templateMode>
-	<defaultFormatIndex>2</defaultFormatIndex>
+	<defaultFormatIndex>3</defaultFormatIndex>
 	<height>10</height>
 	<vgRows>10</vgRows>
 	<namedItem xsi:type="NamedItemCells">
@@ -54,8 +54,14 @@
 		<name>Штрихкод</name>
 		<drawingID>2</drawingID>
 	</namedItem>
+	<line width="1" gap="false">
+		<v8ui:style xsi:type="v8ui:SpreadsheetDocumentDrawingLineType">None</v8ui:style>
+	</line>
 	<format>
 		<height>330</height>
+	</format>
+	<format>
+		<drawingBorder>0</drawingBorder>
 	</format>
 	<format>
 		<width>72</width>
