@@ -3,7 +3,7 @@
 	<WorkingAreaTemplate>OneColumn</WorkingAreaTemplate>
 	<Column>
 		<Item>
-			<Form>CommonForm.ФормаДляТестирования</Form>
+			<Form>CommonForm.BarcodeGenerator_ФормаДляТестирования</Form>
 			<Height>10</Height>
 			<Visibility>
 				<xr:Common>true</xr:Common>

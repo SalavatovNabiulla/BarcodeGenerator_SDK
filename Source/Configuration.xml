@@ -210,9 +210,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<CommonTemplate>МакетДляТестирования</CommonTemplate>
-			<CommonModule>BarQr_Клиент</CommonModule>
-			<CommonForm>ФормаДляТестирования</CommonForm>
+			<CommonTemplate>BarcodeGenerator_МакетДляТестирования</CommonTemplate>
+			<CommonModule>BarcodeGenerator_Клиент</CommonModule>
+			<CommonForm>BarcodeGenerator_ФормаДляТестирования</CommonForm>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
