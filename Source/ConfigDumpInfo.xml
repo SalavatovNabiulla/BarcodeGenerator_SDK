@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
 	<ConfigVersions>
-		<Metadata name="CommonForm.BarcodeGenerator_ФормаДляТестирования" id="eb74cf23-485f-4957-bbcd-208b5035ea5b" configVersion="6a95d1a81dd6914aaedec593bf15e86800000000"/>
-		<Metadata name="CommonForm.BarcodeGenerator_ФормаДляТестирования.Form" id="eb74cf23-485f-4957-bbcd-208b5035ea5b.0" configVersion="657bfddd7f981840a8f9ec9da8e3b59200000000"/>
-		<Metadata name="CommonModule.BarcodeGenerator_Клиент" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1" configVersion="0022dd6c6a36de419ed92aa77d4faf9a00000000"/>
-		<Metadata name="CommonModule.BarcodeGenerator_Клиент.Module" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1.0" configVersion="0146a2049fc23446bc19c4610e1de82900000000"/>
-		<Metadata name="CommonTemplate.BarcodeGenerator_МакетДляТестирования" id="14dce3fa-792a-4ad4-a627-ad262bf4923c" configVersion="61ee1faa1c88f04f8c9afb9b421d30bb00000000"/>
-		<Metadata name="CommonTemplate.BarcodeGenerator_МакетДляТестирования.Template" id="14dce3fa-792a-4ad4-a627-ad262bf4923c.0" configVersion="f4aaf5575bcd2d41907782c5186b9b7200000000"/>
-		<Metadata name="Configuration.BarcodeGenerator" id="b848e156-11b7-4523-b8d3-4dd0c85524b2" configVersion="f63076496b5cea409b73a0ed0d00290100000000"/>
-		<Metadata name="Configuration.BarcodeGenerator.HomePageWorkArea" id="ae2e2de2-b3b5-456b-ad3e-c57021b7261b.8" configVersion="8d7e8c2afaa2e1459807dbe927f6e89800000000"/>
-		<Metadata name="Language.Русский" id="19aae7ea-78e0-4485-8d2a-2282ca3d6caa" configVersion="3d18adbd19732e41bba3aabda759dec700000000"/>
+		<Metadata name="CommonForm.BarcodeGenerator_ФормаДляТестирования" id="eb74cf23-485f-4957-bbcd-208b5035ea5b" configVersion="93870ca71d3f204bb5efff7b36eff77300000000"/>
+		<Metadata name="CommonForm.BarcodeGenerator_ФормаДляТестирования.Form" id="eb74cf23-485f-4957-bbcd-208b5035ea5b.0" configVersion="9ad645c8f4180641925a41a42fee9a4600000000"/>
+		<Metadata name="CommonModule.BarcodeGenerator_Клиент" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1" configVersion="8bcdb6a595a0154bac84d81ebda48a8600000000"/>
+		<Metadata name="CommonModule.BarcodeGenerator_Клиент.Module" id="abe9e67a-64b4-478e-93ab-42f9a74c8df1.0" configVersion="100933ac01ca4b40abaa923529b23ba700000000"/>
+		<Metadata name="CommonTemplate.BarcodeGenerator_МакетДляТестирования" id="14dce3fa-792a-4ad4-a627-ad262bf4923c" configVersion="3d3df2c430ff7340a0f7b10e05d65a2800000000"/>
+		<Metadata name="CommonTemplate.BarcodeGenerator_МакетДляТестирования.Template" id="14dce3fa-792a-4ad4-a627-ad262bf4923c.0" configVersion="a709b7440c3fcb43aac5a6dae3d3599800000000"/>
+		<Metadata name="Configuration.BarcodeGenerator" id="b848e156-11b7-4523-b8d3-4dd0c85524b2" configVersion="6b522da08997c84f9c421292c3de6c0700000000"/>
+		<Metadata name="Configuration.BarcodeGenerator.HomePageWorkArea" id="ae2e2de2-b3b5-456b-ad3e-c57021b7261b.8" configVersion="dcf8f3570298974f9572b540c8f26d9800000000"/>
+		<Metadata name="Language.Русский" id="19aae7ea-78e0-4485-8d2a-2282ca3d6caa" configVersion="3b00613f9f0832488d6ca4b45585e61f00000000"/>
 	</ConfigVersions>
 </ConfigDumpInfo>
